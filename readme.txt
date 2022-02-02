@@ -1,2 +1,2 @@
 This is a sample file
-created for demo
+created for demo.
